@@ -1,0 +1,1 @@
+{"version":3,"file":"destructring.js","sourceRoot":"","sources":["../src/destructring.ts"],"names":[],"mappings":";AAAA,uBAAuB;AACvB,sBAAsB;;AAGtB,MAAM,IAAI,GAAG;IACT,EAAE,EAAG,IAAI;IACT,IAAI,EAAE;QACF,QAAQ,EAAE,OAAO;QACjB,UAAU,EAAE,QAAQ;QACpB,QAAQ,EAAE,OAAO;KACpB;IACD,aAAa,EAAE,OAAO;CAEzB,CAAA;AAED,OAAO,CAAC,GAAG,CAAC,IAAI,CAAC,aAAa,CAAC,CAAC"}
