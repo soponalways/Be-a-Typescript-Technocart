@@ -10,6 +10,12 @@ const user = {
         lastName: "Islam"
     },
     favoriteColor: "Black",
+    gender: "Male"
 };
-console.log(user.favoriteColor);
+// const middleName = user.name.middleName
+// console.log(middleName);
+const { favoriteColor: myFavoriteColor, name: { middleName: myJan } } = user;
+console.log(myJan);
+// console.log(myFavoriteColor);
+// console.log(user);
 //# sourceMappingURL=destructring.js.map
