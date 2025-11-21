@@ -1,3 +1,5 @@
+// * Type Guard / Type narrowing 
+
 type NormalUser = {
     name: string; 
 }; 
